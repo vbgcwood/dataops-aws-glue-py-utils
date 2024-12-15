@@ -1,5 +1,5 @@
 [project]
-name = "devops-aws-glue-py-utils"
+name = "dataops-aws-glue-py-utils"
 version = "0.1.0"
 description = "A private python library of utility functions for AWS Glue ETL Jobs."
 readme = "README.md"

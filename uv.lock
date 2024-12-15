@@ -2,7 +2,7 @@ version = 1
 requires-python = ">=3.4"
 
 [[package]]
-name = "devops-aws-glue-py-utils"
+name = "dataops-aws-glue-py-utils"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
